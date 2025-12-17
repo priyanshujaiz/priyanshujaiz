@@ -16,7 +16,7 @@
 
 Machine Learning Engineer with hands-on experience building **end-to-end ML pipelines**, automation workflows, and production-ready APIs. Currently pursuing B.Tech at **IIT Kharagpur** with a focus on practical ML applications and MLOps.
 
-- 🎓 **IIT Kharagpur** | Ocean Engineering (GPA: 8.3/10)
+- 🎓 **IIT Kharagpur** 
 - 💼 **AI Developer @ NexGrow Digital** (Sep 2025 - Oct 2025)
 - 🔧 Built **sentiment analysis systems**, **real-time data pipelines**, and **phishing detection models**
 - 📊 Strong foundation in **Python, classical ML, and backend integration**
